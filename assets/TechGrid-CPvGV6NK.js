@@ -1,0 +1,1 @@
+import{A as e,D as t,u as n}from"./runtime-core.esm-bundler-BeKXeApd.js";import{t as r}from"./plugin-vue_export-helper-BDNMzG2s.js";var i={},a={class:`tech-grid`};function o(r,i){return t(),n(`div`,a,[e(r.$slots,`default`)])}var s=r(i,[[`render`,o]]);export{s as default};

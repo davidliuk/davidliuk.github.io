@@ -1,0 +1,16 @@
+import{D as e,s as t,u as n}from"./runtime-core.esm-bundler-BeKXeApd.js";import{t as r}from"./plugin-vue_export-helper-BDNMzG2s.js";var i=JSON.parse(`{"path":"/se/devops/unix/basic/security.html","title":"15. 安全","lang":"en-US","frontmatter":{"description":"git clone -b master --single-branch git@coding.jd.com:liudawei47/CronDeleteJob.git . ls -Al git config --global --add safe.directory work git fetch --tags echo…","head":[["script",{"type":"application/ld+json"},"{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"headline\\":\\"15. 安全\\",\\"image\\":[\\"https://davidliuk.github.io/og.jpg\\"],\\"datePublished\\":\\"2026-09-13T00:19:34.000Z\\",\\"dateModified\\":\\"2026-09-13T00:19:34.000Z\\",\\"author\\":[{\\"@type\\":\\"Person\\",\\"@id\\":\\"https://davidliuk.github.io/#person\\",\\"name\\":\\"David Liu\\",\\"url\\":\\"https://davidliuk.github.io/\\"}],\\"mainEntityOfPage\\":\\"https://davidliuk.github.io/se/devops/unix/basic/security.html\\"}"],["meta",{"property":"og:url","content":"https://davidliuk.github.io/se/devops/unix/basic/security.html"}],["meta",{"property":"og:site_name","content":"David Liu"}],["meta",{"property":"og:title","content":"15. 安全"}],["meta",{"property":"og:description","content":"git clone -b master --single-branch git@coding.jd.com:liudawei47/CronDeleteJob.git . ls -Al git config --global --add safe.directory work git fetch --tags echo…"}],["meta",{"property":"og:type","content":"article"}],["meta",{"property":"og:image","content":"https://davidliuk.github.io/og.jpg"}],["meta",{"property":"og:locale","content":"en-US"}],["meta",{"property":"og:updated_time","content":"2026-09-13T00:19:34.000Z"}],["meta",{"property":"article:modified_time","content":"2026-09-13T00:19:34.000Z"}],["meta",{"property":"og:image:width","content":"1200"}],["meta",{"property":"og:image:height","content":"630"}],["meta",{"property":"og:image:type","content":"image/jpeg"}],["meta",{"property":"og:image:alt","content":"15. 安全"}],["meta",{"name":"twitter:card","content":"summary_large_image"}],["meta",{"name":"twitter:image","content":"https://davidliuk.github.io/og.jpg"}],["meta",{"name":"twitter:image:alt","content":"15. 安全"}],["meta",{"property":"article:published_time","content":"2026-09-13T00:19:34.000Z"}],["link",{"rel":"canonical","href":"https://davidliuk.github.io/se/devops/unix/basic/security.html"}]]},"git":{"createdTime":1789258774000,"updatedTime":1789258774000,"contributors":[{"name":"David Liu","username":"","email":"liu.dawei@bytedance.com","commits":1},{"name":"Claude Opus 5","username":"","email":"noreply@anthropic.com","commits":1}]},"readingTime":{"minutes":0.11,"words":33},"filePathRelative":"se/devops/unix/basic/security.md","autoDesc":true}`),a={name:`security.md`};function o(r,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[t(`h1`,{id:`_15-安全`,tabindex:`-1`},[t(`a`,{class:`header-anchor`,href:`#_15-安全`},[t(`span`,null,`15. 安全`)])],-1),t(`pre`,null,[t(`code`,null,`git clone -b master --single-branch git@coding.jd.com:liudawei47/CronDeleteJob.git .
+
+ls -Al
+
+git config --global --add safe.directory work
+
+git fetch --tags
+
+echo "tags--------"
+
+git tag
+
+git branch
+
+echo | git describe --tag
+`)],-1)]])}var s=r(a,[[`render`,o]]);export{i as _pageData,s as default};

@@ -1,0 +1,1 @@
+import{A as e,D as t,u as n}from"./runtime-core.esm-bundler-BeKXeApd.js";import{C as r}from"./app-D4xk_LoI.js";import{t as i}from"./plugin-vue_export-helper-BDNMzG2s.js";var a=r({default:()=>l}),o={},s={class:`pub-grid`};function c(r,i){return t(),n(`div`,s,[e(r.$slots,`default`,{},void 0,!0)])}var l=i(o,[[`render`,c],[`__scopeId`,`data-v-d9ada0cd`]]);export{a as n,l as t};
