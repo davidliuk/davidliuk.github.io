@@ -1,0 +1,1 @@
+import{$ as e,D as t,c as n,g as r}from"./runtime-core.esm-bundler-BeKXeApd.js";import{o as i}from"./app-6LmOW7TS.js";import{t as a}from"./NewsTimeline-DMnxMdSW.js";var o=r({__name:`PortfolioUpdates`,setup(r){return(r,o)=>(t(),n(a,{title:`Selected milestones`,subtitle:`Newest first`,initial:6,items:e(i)},null,8,[`items`]))}});export{o as default};

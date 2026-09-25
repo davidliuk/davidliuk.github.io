@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-09-25T04:46:29.666Z",
+  "repos": {
+    "OpenLAIR/dr-claw": {
+      "stars": 1139,
+      "forks": 131
+    },
+    "davidliuk/graph-of-skills": {
+      "stars": 214,
+      "forks": 27
+    },
+    "Moms-Organic-Agent-Lab/comfyclaw": {
+      "stars": 9,
+      "forks": 2
+    },
+    "Hongyang-Du/awesome-3d-datasets": {
+      "stars": 36,
+      "forks": 1
+    },
+    "zli12321/Multimodal-VIdeo-Generation-Collections-Video-and-Audio": {
+      "stars": 13,
+      "forks": 0
+    },
+    "deepomicslab/TIMEDB": {
+      "stars": 7,
+      "forks": 1
+    },
+    "zli12321/LHTB": {
+      "stars": 712,
+      "forks": 35
+    }
+  }
+}
