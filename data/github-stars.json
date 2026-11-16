@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T09:21:46.196Z",
+  "generatedAt": "2026-11-16T05:30:20.751Z",
   "repos": {
     "OpenLAIR/dr-claw": {
-      "stars": 1164,
-      "forks": 135
+      "stars": 1200,
+      "forks": 144
     },
     "davidliuk/graph-of-skills": {
-      "stars": 225,
+      "stars": 230,
       "forks": 26
     },
     "Moms-Organic-Agent-Lab/comfyclaw": {
@@ -18,7 +18,7 @@
       "forks": 1
     },
     "zli12321/Multimodal-VIdeo-Generation-Collections-Video-and-Audio": {
-      "stars": 13,
+      "stars": 14,
       "forks": 0
     },
     "deepomicslab/TIMEDB": {
@@ -26,20 +26,20 @@
       "forks": 1
     },
     "zli12321/LHTB": {
-      "stars": 564,
-      "forks": 34
+      "stars": 568,
+      "forks": 35
     },
     "Hongyang-Du/FuseReg": {
-      "stars": 17,
+      "stars": 18,
       "forks": 1
     },
     "PaperLeet/paperleet.github.io": {
-      "stars": 4,
+      "stars": 7,
       "forks": 3
     },
     "Hongyang-Du/PaperLeet": {
-      "stars": 177,
-      "forks": 6
+      "stars": 248,
+      "forks": 10
     }
   }
 }
